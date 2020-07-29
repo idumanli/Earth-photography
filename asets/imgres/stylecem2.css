@@ -1,0 +1,84 @@
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 4px;
+}
+.gallerya{
+	text-align: center;
+	 //*border:1px solid #444;*//
+	width: 100%;
+	margin-top: 50px;
+	font-size: 50px;
+}
+    /*.gal-tile silinebilir*/
+
+
+.gal-tile1{
+  height: 550px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #444;
+  overflow: hidden;
+}
+.gal-tile1:hover{
+  box-shadow: 0 1px 5px 1px #444;
+}
+.gal-tile2{
+  height: 550px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #444;
+  overflow: hidden;
+}
+.gal-tile2:hover{
+  box-shadow: 0 1px 5px 1px #444;
+}
+.gal-tile3{
+  height: 550px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #444;
+  overflow: hidden;
+}
+.gal-tile3:hover{
+  box-shadow: 0 1px 5px 1px #444;
+}
+.gal-tile4{
+  height: 550px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #444;
+  overflow: hidden;
+}
+.gal-tile4:hover{
+  box-shadow: 0 1px 5px 1px #444;
+}
+.gal-tile5{
+  height: 550px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #444;
+  overflow: hidden;
+}
+.gal-tile5:hover{
+  box-shadow: 0 1px 5px 1px #444;
+}
+.gal-tile6{
+  height: 550px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #444;
+  overflow: hidden;
+}
+.gal-tile6:hover{
+  box-shadow: 0 1px 5px 1px #444;
+}
+img{
+  width: 100%;
+}
