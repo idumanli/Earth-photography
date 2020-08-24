@@ -1,0 +1,19 @@
+{
+  "name": "earth-photography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idumanli/earth-photography.git"
+  },
+  "author": "ibrahim dumanli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idumanli/earth-photography/issues"
+  },
+  "homepage": "https://github.com/idumanli/earth-photography#readme"
+}
