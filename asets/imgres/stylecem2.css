@@ -2,7 +2,6 @@ body {font-family: "Times New Roman", Georgia, Serif;}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display";
   letter-spacing: 4px;
-
 }
 .gallerya{
 	text-align: center;
@@ -19,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  /*border: 2px solid #444;*/
+  border: 2px solid #444;
   overflow: hidden;
 }
 .gal-tile1:hover{
@@ -30,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  /*border: 2px solid #444;*/
+  border: 2px solid #444;
   overflow: hidden;
 }
 .gal-tile2:hover{
@@ -41,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  /*border: 2px solid #444;*/
+  border: 2px solid #444;
   overflow: hidden;
 }
 .gal-tile3:hover{
@@ -52,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  /*border: 2px solid #444;*/
+  border: 2px solid #444;
   overflow: hidden;
 }
 .gal-tile4:hover{
@@ -63,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  /*border: 2px solid #444;*/
+  border: 2px solid #444;
   overflow: hidden;
 }
 .gal-tile5:hover{
@@ -74,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  /*border: 2px solid #444;*/
+  border: 2px solid #444;
   overflow: hidden;
 }
 .gal-tile6:hover{
